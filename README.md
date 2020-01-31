@@ -18,11 +18,11 @@ Understanding how customers/users engage with brands online, especially in publi
 
 ## Notable Technologies Used
 * Python 3, Jupyter Notebook
-* Nltk, SpaCy, Scikit-learn # NLP Text Processing
-* CountVectorizer, TfidfVectorizer, CorEx # Topic Modeling / Dimensionality Reduction
-* vaderSentiment # Sentiment Analysis
-* DBSCAN # Clustering Algorithms
-* Pandas, Numpy, Matplotlib, Seaborn, Tableau # Data Processing/Visualization tools
+* Nltk, SpaCy, Scikit-learn **> NLP Text Processing**
+* CountVectorizer, TfidfVectorizer, CorEx **> Topic Modeling / Dimensionality Reduction**
+* vaderSentiment **> Sentiment Analysis**
+* DBSCAN **> Clustering Algorithms**
+* Pandas, Numpy, Matplotlib, Seaborn, Tableau **> Data Processing/Visualization tools**
 * etc. 
 
 ## Main Analysis Threads
